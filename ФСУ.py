@@ -8,9 +8,9 @@ def square_sum(a, b):
     else:
         return 'Error! Введите корректное число!'
 
-# a = input('Введите первое значение: ')
-# b = input('Введите второе значение: ')
-# print(square_sum(a, b))
+a = input('Введите первое значение: ')
+b = input('Введите второе значение: ')
+print(square_sum(a, b))
 
 
 
@@ -24,9 +24,9 @@ def square_minus(a, b):
     else:
         return 'Error! Введите корректное число!'
 
-# a = input('Введите первое значение: ')
-# b = input('Введите второе значение: ')
-# print(square_minus(a, b))
+a = input('Введите первое значение: ')
+b = input('Введите второе значение: ')
+print(square_minus(a, b))
 
 
 
@@ -40,9 +40,9 @@ def minus_squares(a, b):
     else:
         return 'Error! Введите корректное число!'
 
-# a = input('Введите первое значение: ')
-# b = input('Введите второе значение: ')
-# print(minus_squares(a, b))
+a = input('Введите первое значение: ')
+b = input('Введите второе значение: ')
+print(minus_squares(a, b))
 
 
 
@@ -56,9 +56,9 @@ def cube_sum(a, b):
     else:
         return 'Error! Введите корректное число!'
 
-# a = input('Введите первое значение: ')
-# b = input('Введите второе значение: ')
-# print(cube_sum(a, b))
+a = input('Введите первое значение: ')
+b = input('Введите второе значение: ')
+print(cube_sum(a, b))
 
 
 
@@ -72,9 +72,9 @@ def cube_minus(a, b):
     else:
         return 'Error! Введите корректное число!'
 
-# a = input('Введите первое значение: ')
-# b = input('Введите второе значение: ')
-# print(cube_minus(a, b))
+a = input('Введите первое значение: ')
+b = input('Введите второе значение: ')
+print(cube_minus(a, b))
 
 
 
@@ -88,9 +88,9 @@ def sum_cube(a, b):
     else:
         return 'Error! Введите корректное число!'
 
-# a = input('Введите первое значение: ')
-# b = input('Введите второе значение: ')
-# print(sum_cube(a, b))
+a = input('Введите первое значение: ')
+b = input('Введите второе значение: ')
+print(sum_cube(a, b))
 
 
 
@@ -104,9 +104,9 @@ def minus_cube(a, b):
     else:
         return 'Error! Введите корректное число!'
 
-# a = input('Введите первое значение: ')
-# b = input('Введите второе значение: ')
-# print(minus_cube(a, b))
+a = input('Введите первое значение: ')
+b = input('Введите второе значение: ')
+print(minus_cube(a, b))
 
 
 
@@ -121,7 +121,7 @@ def sum_three_num(a, b, c):
     else:
         return 'Error! Введите корректное число!'
 
-# a = input('Введите первое значение: ')
-# b = input('Введите второе значение: ')
-# c = input('Введите третье значение: ')
-# print(sum_three_num(a, b, c))
+a = input('Введите первое значение: ')
+b = input('Введите второе значение: ')
+c = input('Введите третье значение: ')
+print(sum_three_num(a, b, c))
